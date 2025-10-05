@@ -1,0 +1,9 @@
+Date,Country,State,Confirmed,Deaths,Recovered,Population
+2020-03-01,United States,California,100,2,0,39512223
+2020-03-02,United States,California,250,3,1,39512223
+2020-03-03,United States,California,600,5,3,39512223
+2020-03-04,United States,California,1200,8,10,39512223
+2020-03-05,United States,California,2200,10,15,39512223
+2020-03-06,United States,California,3100,13,20,39512223
+2020-03-07,United States,California,4500,20,25,39512223
+
